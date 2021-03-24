@@ -1,0 +1,22 @@
+.first li {
+    background-color: red;
+    border: 2px solid blue;
+}
+.second li {
+    background-color: yellow;
+    border: 2px solid red;
+    padding: 20px 20px;
+}
+.third {
+    background-color: green;
+    border: 2px dashed yellow;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.red-text {
+    color: red;
+}
+.center {
+    text-align: center;
+}
